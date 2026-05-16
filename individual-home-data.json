@@ -28,7 +28,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -68,7 +68,7 @@
                         "guests": 5,
                         "bedrooms": 2,
                         "bathrooms": 2,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -128,7 +128,7 @@
                         "guests": 3,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -148,7 +148,7 @@
                         "guests": 6,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -168,7 +168,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -208,7 +208,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -248,7 +248,7 @@
                         "guests": 3,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -288,7 +288,7 @@
                         "guests": 5,
                         "bedrooms": 2,
                         "bathrooms": 2,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -328,7 +328,7 @@
                         "guests": 2,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
@@ -348,7 +348,7 @@
                         "guests": 6,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": false
+                        "pool": true
                       }
                     },
                     {
