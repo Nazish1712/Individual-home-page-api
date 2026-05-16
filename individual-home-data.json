@@ -1,0 +1,383 @@
+{
+  "status": true,
+  "message": "House List fetched successfully",
+  "data": {
+    "data": {
+      "cards": [
+        {},
+        {
+          "card": {
+            "card": {
+              "gridElements": {
+                "infoWithStyle": {
+                  "homes": [
+                    {
+                      "info": {
+                        "id": "1",
+                        "name": "Lakeview Villa",
+                        "images": [
+                          "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+                        ],
+                        "locality": "Malviya Nagar",
+                        "areaName": "Jaipur",
+                        "description": "Lakeview Villa offers a peaceful stay with beautiful interiors and a relaxing atmosphere. The home features spacious rooms, natural lighting, and a comfortable living area perfect for families. Guests can enjoy a calm neighborhood while staying close to the main attractions of Jaipur.",
+                        "pricePerDay": 1200,
+                        "rating": 3.2,
+                        "reviews": 48,
+                        "guests": 4,
+                        "bedrooms": 2,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "2",
+                        "name": "Palm Residency",
+                        "images": [
+                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+                          "https://images.unsplash.com/photo-1494526585095-c41746248156"
+                        ],
+                        "locality": "Vaishali Nagar",
+                        "areaName": "Jaipur",
+                        "description": "Palm Residency is a premium luxury stay designed with elegant modern interiors and spacious rooms. The property includes stylish seating areas, a rooftop space, and excellent amenities for group stays. It is located in one of the most popular areas of Jaipur with easy access to cafes and shopping spots.",
+                        "pricePerDay": 4500,
+                        "rating": 4.8,
+                        "reviews": 120,
+                        "guests": 8,
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "3",
+                        "name": "Sunset Haven",
+                        "images": [
+                          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+                          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6"
+                        ],
+                        "locality": "Mansarovar",
+                        "areaName": "Jaipur",
+                        "description": "Sunset Haven is a cozy and modern apartment ideal for small families and couples. The home is designed with warm interiors and comfortable furniture to create a relaxing experience. Guests can enjoy peaceful evenings with beautiful sunset views from the balcony.",
+                        "pricePerDay": 1400,
+                        "rating": 3.8,
+                        "reviews": 67,
+                        "guests": 5,
+                        "bedrooms": 2,
+                        "bathrooms": 2,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "4",
+                        "name": "Royal Nest",
+                        "images": [
+                          "https://images.unsplash.com/photo-1572120360610-d971b9d7767c",
+                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+                        ],
+                        "locality": "Jagatpura",
+                        "areaName": "Jaipur",
+                        "description": "Royal Nest combines luxury with comfort in a spacious villa setting. The property offers stylish bedrooms, elegant decor, and a relaxing outdoor area for gatherings. It is perfect for family vacations and weekend stays with friends.",
+                        "pricePerDay": 2500,
+                        "rating": 4.6,
+                        "reviews": 95,
+                        "guests": 7,
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "5",
+                        "name": "Skyline Heights",
+                        "images": [
+                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+                        ],
+                        "locality": "C-Scheme",
+                        "areaName": "Jaipur",
+                        "description": "Skyline Heights is a luxurious penthouse featuring breathtaking city views and premium interiors. The home includes spacious bedrooms, modern furniture, and elegant lighting throughout the property. Guests can enjoy a high-end experience in the heart of Jaipur.",
+                        "pricePerDay": 5200,
+                        "rating": 5.0,
+                        "reviews": 210,
+                        "guests": 10,
+                        "bedrooms": 5,
+                        "bathrooms": 4,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "6",
+                        "name": "Green Meadows",
+                        "images": [
+                          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+                          "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+                        ],
+                        "locality": "Raja Park",
+                        "areaName": "Jaipur",
+                        "description": "Green Meadows offers a peaceful and budget-friendly stay surrounded by greenery. The rooms are clean, comfortable, and designed for a relaxing experience. It is a great choice for travelers looking for a calm and affordable property.",
+                        "pricePerDay": 900,
+                        "rating": 3.4,
+                        "reviews": 34,
+                        "guests": 3,
+                        "bedrooms": 1,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "7",
+                        "name": "Urban Retreat",
+                        "images": [
+                          "https://images.unsplash.com/photo-1493809842364-78817add7ffb",
+                          "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+                        ],
+                        "locality": "Tonk Road",
+                        "areaName": "Jaipur",
+                        "description": "Urban Retreat is a modern apartment with stylish interiors and a vibrant atmosphere. The property provides comfortable rooms, fast connectivity, and spacious common areas. It is ideal for travelers who want both comfort and easy city access.",
+                        "pricePerDay": 2000,
+                        "rating": 4.1,
+                        "reviews": 88,
+                        "guests": 6,
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "8",
+                        "name": "Blue Orchid",
+                        "images": [
+                          "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+                          "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+                        ],
+                        "locality": "Bani Park",
+                        "areaName": "Jaipur",
+                        "description": "Blue Orchid features calming interiors with a stylish and compact design. The property is well-maintained and offers all essential amenities for a comfortable stay. Guests can enjoy a peaceful environment while staying near major city areas.",
+                        "pricePerDay": 1300,
+                        "rating": 3.9,
+                        "reviews": 59,
+                        "guests": 4,
+                        "bedrooms": 2,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "9",
+                        "name": "Maple Residency",
+                        "images": [
+                          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+                          "https://images.unsplash.com/photo-1494526585095-c41746248156"
+                        ],
+                        "locality": "Adarsh Nagar",
+                        "areaName": "Jaipur",
+                        "description": "Maple Residency offers a premium stay experience with elegant wooden interiors and spacious rooms. The property is designed to provide maximum comfort for both families and groups. Guests can enjoy a luxurious atmosphere with modern facilities.",
+                        "pricePerDay": 3200,
+                        "rating": 4.7,
+                        "reviews": 145,
+                        "guests": 8,
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "10",
+                        "name": "Golden Pearl",
+                        "images": [
+                          "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+                          "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+                        ],
+                        "locality": "Jhotwara",
+                        "areaName": "Jaipur",
+                        "description": "Golden Pearl is an affordable luxury property with warm interiors and stylish decor. The rooms are spacious and designed to provide a comfortable and relaxing stay. It is a perfect choice for short trips and family vacations.",
+                        "pricePerDay": 1100,
+                        "rating": 3.5,
+                        "reviews": 52,
+                        "guests": 4,
+                        "bedrooms": 2,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "11",
+                        "name": "Silver Oaks",
+                        "images": [
+                          "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+                        ],
+                        "locality": "Sodala",
+                        "areaName": "Jaipur",
+                        "description": "Silver Oaks provides a luxury living experience with elegant interiors and spacious rooms. The property is perfect for families looking for comfort and premium facilities during their stay. Guests can enjoy modern amenities along with a peaceful environment.",
+                        "pricePerDay": 2800,
+                        "rating": 4.6,
+                        "reviews": 110,
+                        "guests": 7,
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "12",
+                        "name": "City Dwell",
+                        "images": [
+                          "https://images.unsplash.com/photo-1494526585095-c41746248156",
+                          "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+                        ],
+                        "locality": "Sitapura",
+                        "areaName": "Jaipur",
+                        "description": "City Dwell is a compact and affordable apartment ideal for business travelers and solo guests. The property offers essential facilities with a clean and modern setup. It provides easy access to major roads and commercial areas in Jaipur.",
+                        "pricePerDay": 1000,
+                        "rating": 3.1,
+                        "reviews": 28,
+                        "guests": 3,
+                        "bedrooms": 1,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "13",
+                        "name": "Garden Villa",
+                        "images": [
+                          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+                        ],
+                        "locality": "Vidhyadhar Nagar",
+                        "areaName": "Jaipur",
+                        "description": "Garden Villa is a beautiful luxury property surrounded by greenery and open spaces. The villa features stylish interiors, spacious bedrooms, and relaxing outdoor seating. It is perfect for large groups and peaceful weekend stays.",
+                        "pricePerDay": 4200,
+                        "rating": 4.9,
+                        "reviews": 178,
+                        "guests": 9,
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "14",
+                        "name": "Amber Stay",
+                        "images": [
+                          "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+                          "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+                        ],
+                        "locality": "Ajmer Road",
+                        "areaName": "Jaipur",
+                        "description": "Amber Stay provides a comfortable family-friendly atmosphere with spacious rooms and cozy interiors. The property is designed for peaceful and relaxing stays away from busy city noise. Guests can enjoy convenient access to nearby attractions and restaurants.",
+                        "pricePerDay": 1500,
+                        "rating": 4.0,
+                        "reviews": 73,
+                        "guests": 5,
+                        "bedrooms": 2,
+                        "bathrooms": 2,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "15",
+                        "name": "Grand Horizon",
+                        "images": [
+                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+                        ],
+                        "locality": "Gopalpura",
+                        "areaName": "Jaipur",
+                        "description": "Grand Horizon is an ultra-luxury mansion with premium interiors and high-end amenities. The property includes spacious suites, elegant decor, and a stunning terrace area for gatherings. Guests can experience a five-star style stay with complete comfort and privacy.",
+                        "pricePerDay": 5600,
+                        "rating": 5.0,
+                        "reviews": 250,
+                        "guests": 12,
+                        "bedrooms": 6,
+                        "bathrooms": 5,
+                        "pool": true
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "16",
+                        "name": "Cozy Corner",
+                        "images": [
+                          "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+                        ],
+                        "locality": "MI Road",
+                        "areaName": "Jaipur",
+                        "description": "Cozy Corner is a small and comfortable apartment designed for couples and solo travelers. The interiors are warm, clean, and thoughtfully arranged for a relaxing stay. It is located near popular shopping and dining areas in Jaipur.",
+                        "pricePerDay": 800,
+                        "rating": 3.0,
+                        "reviews": 19,
+                        "guests": 2,
+                        "bedrooms": 1,
+                        "bathrooms": 1,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "17",
+                        "name": "Urban Nest",
+                        "images": [
+                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+                          "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+                        ],
+                        "locality": "Shyam Nagar",
+                        "areaName": "Jaipur",
+                        "description": "Urban Nest offers a stylish and modern stay experience with spacious rooms and elegant decor. The apartment is designed for comfort and convenience with all essential amenities included. Guests can enjoy a peaceful stay while remaining connected to the city.",
+                        "pricePerDay": 2100,
+                        "rating": 4.3,
+                        "reviews": 97,
+                        "guests": 6,
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "pool": false
+                      }
+                    },
+                    {
+                      "info": {
+                        "id": "18",
+                        "name": "Terrace Bliss",
+                        "images": [
+                          "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6",
+                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+                        ],
+                        "locality": "Civil Lines",
+                        "areaName": "Jaipur",
+                        "description": "Terrace Bliss is a premium terrace apartment featuring open seating spaces and luxury interiors. The property offers spacious bedrooms, modern facilities, and beautiful city views. It is perfect for guests looking for a relaxing yet upscale stay experience.",
+                        "pricePerDay": 4800,
+                        "rating": 4.8,
+                        "reviews": 165,
+                        "guests": 8,
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "pool": true
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
