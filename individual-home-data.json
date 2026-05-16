@@ -28,7 +28,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -48,7 +48,7 @@
                         "guests": 8,
                         "bedrooms": 4,
                         "bathrooms": 3,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -68,7 +68,7 @@
                         "guests": 5,
                         "bedrooms": 2,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -88,7 +88,7 @@
                         "guests": 7,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -108,7 +108,7 @@
                         "guests": 10,
                         "bedrooms": 5,
                         "bathrooms": 4,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -128,7 +128,7 @@
                         "guests": 3,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -148,7 +148,7 @@
                         "guests": 6,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -168,7 +168,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -188,7 +188,7 @@
                         "guests": 8,
                         "bedrooms": 4,
                         "bathrooms": 3,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -208,7 +208,7 @@
                         "guests": 4,
                         "bedrooms": 2,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -228,7 +228,7 @@
                         "guests": 7,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -248,7 +248,7 @@
                         "guests": 3,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -268,7 +268,7 @@
                         "guests": 9,
                         "bedrooms": 4,
                         "bathrooms": 3,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -288,7 +288,7 @@
                         "guests": 5,
                         "bedrooms": 2,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -308,7 +308,7 @@
                         "guests": 12,
                         "bedrooms": 6,
                         "bathrooms": 5,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -328,7 +328,7 @@
                         "guests": 2,
                         "bedrooms": 1,
                         "bathrooms": 1,
-                        "pool": true
+                        "pool": 1
                       }
                     },
                     {
@@ -348,7 +348,7 @@
                         "guests": 6,
                         "bedrooms": 3,
                         "bathrooms": 2,
-                        "pool": true
+                        "pool": 2
                       }
                     },
                     {
@@ -368,7 +368,7 @@
                         "guests": 8,
                         "bedrooms": 4,
                         "bathrooms": 3,
-                        "pool": true
+                        "pool": 2
                       }
                     }
                   ]
