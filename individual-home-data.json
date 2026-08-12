@@ -16,8 +16,8 @@
                         "id": "1",
                         "name": "Lakeview Villa",
                         "images": [
-                          "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/aquilion-property-NoPzk4m4jHc-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532482/brian-babb-XbwHrt87mQ0-unsplash.jpg"
                         ],
                         "locality": "Malviya Nagar",
                         "areaName": "Jaipur",
@@ -36,8 +36,8 @@
                         "id": "2",
                         "name": "Palm Residency",
                         "images": [
-                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-                          "https://images.unsplash.com/photo-1494526585095-c41746248156"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532488/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/melrose-by-the-lake-43vHzsfrmxk-unsplash.jpg"
                         ],
                         "locality": "Vaishali Nagar",
                         "areaName": "Jaipur",
@@ -56,8 +56,8 @@
                         "id": "3",
                         "name": "Sunset Haven",
                         "images": [
-                          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
-                          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/francesca-tosolini-tHkJAMcO3QE-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/vu-anh-TiVPTYCG_3E-unsplash.jpg"
                         ],
                         "locality": "Mansarovar",
                         "areaName": "Jaipur",
@@ -76,8 +76,8 @@
                         "id": "4",
                         "name": "Royal Nest",
                         "images": [
-                          "https://images.unsplash.com/photo-1572120360610-d971b9d7767c",
-                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532481/kara-eads-L7EwHkq1B2s-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532487/webaliser-_TPTXZd9mOo-unsplash.jpg"
                         ],
                         "locality": "Jagatpura",
                         "areaName": "Jaipur",
@@ -96,8 +96,8 @@
                         "id": "5",
                         "name": "Skyline Heights",
                         "images": [
-                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/melrose-by-the-lake-43vHzsfrmxk-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532488/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg"
                         ],
                         "locality": "C-Scheme",
                         "areaName": "Jaipur",
@@ -116,8 +116,8 @@
                         "id": "6",
                         "name": "Green Meadows",
                         "images": [
-                          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
-                          "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532482/brian-babb-XbwHrt87mQ0-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532481/kara-eads-L7EwHkq1B2s-unsplash.jpg"
                         ],
                         "locality": "Raja Park",
                         "areaName": "Jaipur",
@@ -136,8 +136,8 @@
                         "id": "7",
                         "name": "Urban Retreat",
                         "images": [
-                          "https://images.unsplash.com/photo-1493809842364-78817add7ffb",
-                          "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532484/spacejoy-trG8989WjFA-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532482/brian-babb-XbwHrt87mQ0-unsplash.jpg"
                         ],
                         "locality": "Tonk Road",
                         "areaName": "Jaipur",
@@ -156,8 +156,8 @@
                         "id": "8",
                         "name": "Blue Orchid",
                         "images": [
-                          "https://images.unsplash.com/photo-1484154218962-a197022b5858",
-                          "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532487/webaliser-_TPTXZd9mOo-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/francesca-tosolini-tHkJAMcO3QE-unsplash.jpg"
                         ],
                         "locality": "Bani Park",
                         "areaName": "Jaipur",
@@ -176,8 +176,8 @@
                         "id": "9",
                         "name": "Maple Residency",
                         "images": [
-                          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
-                          "https://images.unsplash.com/photo-1494526585095-c41746248156"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/aquilion-property-NoPzk4m4jHc-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532488/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg"
                         ],
                         "locality": "Adarsh Nagar",
                         "areaName": "Jaipur",
@@ -196,8 +196,8 @@
                         "id": "10",
                         "name": "Golden Pearl",
                         "images": [
-                          "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
-                          "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532503/spacejoy-9M66C_w_ToM-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/vu-anh-TiVPTYCG_3E-unsplash.jpg"
                         ],
                         "locality": "Jhotwara",
                         "areaName": "Jaipur",
@@ -216,8 +216,8 @@
                         "id": "11",
                         "name": "Silver Oaks",
                         "images": [
-                          "https://images.unsplash.com/photo-1501183638710-841dd1904471",
-                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532482/brian-babb-XbwHrt87mQ0-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532503/spacejoy-9M66C_w_ToM-unsplash.jpg"
                         ],
                         "locality": "Sodala",
                         "areaName": "Jaipur",
@@ -236,8 +236,8 @@
                         "id": "12",
                         "name": "City Dwell",
                         "images": [
-                          "https://images.unsplash.com/photo-1494526585095-c41746248156",
-                          "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532484/spacejoy-trG8989WjFA-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532487/webaliser-_TPTXZd9mOo-unsplash.jpg"
                         ],
                         "locality": "Sitapura",
                         "areaName": "Jaipur",
@@ -256,8 +256,8 @@
                         "id": "13",
                         "name": "Garden Villa",
                         "images": [
-                          "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
-                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532487/webaliser-_TPTXZd9mOo-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532484/spacejoy-trG8989WjFA-unsplash.jpg"
                         ],
                         "locality": "Vidhyadhar Nagar",
                         "areaName": "Jaipur",
@@ -276,8 +276,8 @@
                         "id": "14",
                         "name": "Amber Stay",
                         "images": [
-                          "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
-                          "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532488/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/aquilion-property-NoPzk4m4jHc-unsplash.jpg"
                         ],
                         "locality": "Ajmer Road",
                         "areaName": "Jaipur",
@@ -296,8 +296,8 @@
                         "id": "15",
                         "name": "Grand Horizon",
                         "images": [
-                          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
-                          "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532503/spacejoy-9M66C_w_ToM-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532482/brian-babb-XbwHrt87mQ0-unsplash.jpg"
                         ],
                         "locality": "Gopalpura",
                         "areaName": "Jaipur",
@@ -316,8 +316,8 @@
                         "id": "16",
                         "name": "Cozy Corner",
                         "images": [
-                          "https://images.unsplash.com/photo-1554995207-c18c203602cb",
-                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532481/kara-eads-L7EwHkq1B2s-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/vu-anh-TiVPTYCG_3E-unsplash.jpg"
                         ],
                         "locality": "MI Road",
                         "areaName": "Jaipur",
@@ -336,8 +336,8 @@
                         "id": "17",
                         "name": "Urban Nest",
                         "images": [
-                          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
-                          "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532486/vu-anh-TiVPTYCG_3E-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/melrose-by-the-lake-43vHzsfrmxk-unsplash.jpg"
                         ],
                         "locality": "Shyam Nagar",
                         "areaName": "Jaipur",
@@ -356,8 +356,8 @@
                         "id": "18",
                         "name": "Terrace Bliss",
                         "images": [
-                          "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6",
-                          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532489/francesca-tosolini-tHkJAMcO3QE-unsplash.jpg",
+                          "https://res.cloudinary.com/vud99rd1/image/upload/q_auto,f_auto/v1786532487/webaliser-_TPTXZd9mOo-unsplash.jpg"
                         ],
                         "locality": "Civil Lines",
                         "areaName": "Jaipur",
